@@ -1,1 +1,2 @@
-# PSI---laboratorium-2024-2025
+# Podstawy Sztucznej Inteligencji - laboratorium 2024/2025
+W repozytorium znajdują się notebooki z zadaniami oraz zasady zaliczenia przedmiotu "Podstawy Sztucznej Inteligencji" prowadzonego na Uniwersytecie Jagiellońskim w roku akademickim 2024/2025.
